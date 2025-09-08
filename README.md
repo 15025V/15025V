@@ -48,6 +48,6 @@ $ goals --short-term
   ▸ Conectar con equipos que valoren documentación y mejora continua
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=15025V&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=15025V&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
-<p align="center"> <a href="https://www.linkedin.com/in/victor-gonzalez-espinoza-42709a276"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://https://15025v.github.io/VictorDev/"><img src="https://img.shields.io/badge/-Portafolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p align="center"> <a href="https://www.linkedin.com/in/victor-gonzalez-espinoza-42709a276"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://15025v.github.io/VictorDev/"><img src="https://img.shields.io/badge/-Portafolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <p align="center"> <em>“La modularidad no es solo técnica, es narrativa.”</em> </p>
