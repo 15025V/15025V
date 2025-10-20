@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">✨ Victor Gonzalez Espinoza ✨</h1>
+<h1 align="center">💻 Victor Gonzalez Espinoza 💻</h1>
 
 <p align="center">
   <strong>Frontend Engineer · UX Strategist · Modular Architect</strong><br>
